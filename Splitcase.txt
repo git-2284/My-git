@@ -1,0 +1,19 @@
+>> f = 'sales_data_12/09/03.csv'
+>>> ff =f.split("_")
+>>> fff= ff[2].split('.')
+>>> date = fff[0]
+>>> format = fff[1]
+>>> print(date)
+12/09/03
+>>> print(format)
+csv
+>>> a = 'sales_data_12/09/03.csv'
+>>> ab =a.split("_")
+>>> abc= ab[2].split('.')
+>>> date = abc[0]
+>>> format = abc[1]
+>>> print(date)
+12/09/03
+>>> print(format)
+csv
+>>>

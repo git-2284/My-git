@@ -1,0 +1,81 @@
+Agile Methodology: it will divide 
+
+SDLC : software developement life cycle
+1. requirement gathering
+2. plan
+3. design 
+4. implementation 
+5. Testing 
+6. Deployment
+7. Review/maintanance/operational
+
+
+1. Earlier Waterfall methodology
+2. Now Agile methodology : framework to implement any kind of project.
+   a) Sprints (10 working days(2 weeks)/8 hours a day)
+   b) Will setup some targets.
+3. Jira : It's a Issue tracking tool also called as Bug Fixing tool.
+4. Scrum : Will get updates from small teams that involved in sprint.
+
+
+1. After joining in a office, the first thing you have to get access to Jira.
+2. Project management team will come up with the challenges in Sprint Planning Session.
+3. Based on your skillset, you will be assigned work.
+4. everybody in the team should involve in 80hours.
+
+Sprint1:
+1. Create a BQ dataset (5min) but you will get 8hours of time.
+2. transformation of dataset: estimate (Story points) (will carry forward if you can't complete in time)
+3. Story point = 4 hours or 8 hours.
+
+Scrum Master : 
+1. Kanban board : It's a Dashboard that burn down chart.
+2. Sprint Retrospect : suggestions to give.
+
+Scrum Meeting Time : Every day morning/should give updates about yesterdays work and todays Agenda. Also if you face any challenges and issues.
+Stand up or Follow-up Call : should provide updates on Todays Agenda/Where you are/ When can you acheive/Howcan we solve those issues.
+
+
+Jira : It's a Issue tracking tool/ticket/task(Issues will be maintained in Sprints). (Jira Real Time board)
+
+Task >>> backlog >>> Sprint >>> Todo >>> 
+
+Atlassian Jira : Create instance by using Gmailid.
+
+
+
+
+
+
+GIT(Simple Version Control tool):
+What is GIT : software used to collabarate code in repositories. To handle code in multple versions. It's like administration of project.
+software instance available in cloud,  project management tool
+
+Git having 1. working Repo 2. Central Repo 3. Remote Repo
+1. Working Repostiry : Local machine -->BQ(DIS) -- USECase(Local)
+2. Central repo : 
+
+
+to know in which branch you are in use PWD
+GIT Commmands : GIT CLONE URL
+git clone https://github.com/apache/spark.git
+
+
+
+git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
